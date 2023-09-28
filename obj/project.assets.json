@@ -11662,11 +11662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pahulsidhu/development/Medhat_Dotnet/lab3/CommunityApp/CommunityApp.csproj",
+      "projectUniqueName": "/Users/pahulsidhu/Desktop/Development/Medhat_Dotnet/lab3/CommunityApp/CommunityApp.csproj",
       "projectName": "CommunityApp",
-      "projectPath": "/Users/pahulsidhu/development/Medhat_Dotnet/lab3/CommunityApp/CommunityApp.csproj",
+      "projectPath": "/Users/pahulsidhu/Desktop/Development/Medhat_Dotnet/lab3/CommunityApp/CommunityApp.csproj",
       "packagesPath": "/Users/pahulsidhu/.nuget/packages/",
-      "outputPath": "/Users/pahulsidhu/development/Medhat_Dotnet/lab3/CommunityApp/obj/",
+      "outputPath": "/Users/pahulsidhu/Desktop/Development/Medhat_Dotnet/lab3/CommunityApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pahulsidhu/.nuget/NuGet/NuGet.Config"

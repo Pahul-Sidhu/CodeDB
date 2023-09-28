@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pGHHbZ798zpBYIRWcvGDsjU9e1GGfKyRhJ+4n2gy1J2I8cWDMY7kzrpp8+R4eSOrmt8xBFk7IGSpRzzrMgM7Hw==",
+  "dgSpecHash": "jxB4+NdTqmzKnQBXgXVngmVucML2CPBHSylQLTq8TSW0dNztho1nK5FGR2OznpzoKcDh0Eckh/7CoQ3a4XG0TQ==",
   "success": true,
-  "projectFilePath": "/Users/pahulsidhu/development/Medhat_Dotnet/lab3/CommunityApp/CommunityApp.csproj",
+  "projectFilePath": "/Users/pahulsidhu/Desktop/Development/Medhat_Dotnet/lab3/CommunityApp/CommunityApp.csproj",
   "expectedPackageFiles": [
     "/Users/pahulsidhu/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/pahulsidhu/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
